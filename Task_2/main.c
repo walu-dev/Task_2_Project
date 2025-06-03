@@ -10,6 +10,7 @@ int main()
     CalculateSimpleIntrest();
     CalculateDiscountPrice();
     ConvertCurrency();
+    CalculateBonus();
 
     return 0;
 }
