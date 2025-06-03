@@ -1,9 +1,10 @@
 # depslib dependency file v1.0
-1748956664 source:c:\users\hp\desktop\jonathan docu\comp office\c program\task_2_project\task_2\main.c
+1748963903 source:c:\users\hp\desktop\jonathan docu\comp office\c program\task_2_project\task_2\main.c
 	<stdio.h>
 	<stdlib.h>
 	"simpleIntrest.h"
 	"DiscountedPrice.h"
+	"Currency.h"
 
 1748953129 c:\users\hp\desktop\jonathan docu\comp office\c program\task_2_project\task_2\simpleintrest.h
 
@@ -16,4 +17,6 @@
 	"DiscountedPrice.h"
 
 1748956375 c:\users\hp\desktop\jonathan docu\comp office\c program\task_2_project\task_2\discountedprice.h
+
+1748958662 c:\users\hp\desktop\jonathan docu\comp office\c program\task_2_project\task_2\currency.h
 
