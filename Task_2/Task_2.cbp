@@ -31,10 +31,22 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="Currency.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Currency.h" />
 		<Unit filename="DiscountedPrice.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="DiscountedPrice.h" />
+		<Unit filename="EmployeeBonus.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="EmployeeBonus.h" />
+		<Unit filename="TotalCost.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TotalCost.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
