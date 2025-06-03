@@ -6,5 +6,5 @@ void CalculateSimpleIntrest(){
     double time  = 5;
     double rate = 0.1; //10% rate
     double SimpleIntrest = principle * time * rate;
-    printf("The SimpleIntrest is: %.2lf", SimpleIntrest);
+    printf("The SimpleIntrest is: %.2lf\n", SimpleIntrest);
 }

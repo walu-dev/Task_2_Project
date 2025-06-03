@@ -31,9 +31,17 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="DiscountedPrice.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="DiscountedPrice.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="simpleIntrest.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="simpleIntrest.h" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
