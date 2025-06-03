@@ -11,6 +11,7 @@ int main()
     CalculateDiscountPrice();
     ConvertCurrency();
     CalculateBonus();
+    CalculateTotalCost();
 
     return 0;
 }
