@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1748954282 source:c:\users\hp\desktop\jonathan docu\comp office\c program\task_2_project\task_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"simpleIntrest.h"
+
+1748953129 c:\users\hp\desktop\jonathan docu\comp office\c program\task_2_project\task_2\simpleintrest.h
+
