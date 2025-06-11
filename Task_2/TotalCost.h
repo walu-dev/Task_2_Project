@@ -1,5 +1,5 @@
-#ifdef TOTALCOST_H
+#ifndef TOTALCOST_H
 #define TOTALCOST_H
 
-voud CalculateTotalCost();
+void CalculateTotalCost();
 #endif // TOTALCOST_H

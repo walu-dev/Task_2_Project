@@ -3,6 +3,8 @@
 #include "simpleIntrest.h"
 #include "DiscountedPrice.h"
 #include "Currency.h"
+#include "EmployeeBonus.h"
+#include "TotalCost.h"
 
 
 int main()
