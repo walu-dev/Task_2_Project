@@ -1,4 +1,4 @@
-#ifdef EmployeeBonus_H
+#ifndef EmployeeBonus_H
 #define EmployeeBonus_H
 
 void CalculateBonus();

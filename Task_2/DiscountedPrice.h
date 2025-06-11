@@ -1,4 +1,4 @@
-#ifdef DISCOUNTEDPRICE_H
+#ifndef DISCOUNTEDPRICE_H
 #define DISCOUNTEDPRICE_H
 
 void CalculateDiscountPrice();
