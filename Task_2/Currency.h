@@ -1,4 +1,4 @@
-#ifdef CURRENCY_H
+#ifndef CURRENCY_H
 #define CURRENCY_H
 
 void ConvertCurrency();
